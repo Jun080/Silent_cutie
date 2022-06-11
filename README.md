@@ -15,7 +15,7 @@ Voici un Bot Discord permettant de régler certains... problèmes que vous pourr
   
 -----------------
 ## Explication
-Dans le cadre d'un projet Front dans notre [école](https://www.hetic.net/), nous avons eu 2 semaines pour effectuer un RPG en JavaScript.
+Dans le cadre d'un projet Front dans notre [école](https://www.hetic.net/), nous avons eu 2 semaines pour effectuer un Bot Discord en Python.
 
 
 ### But du projet
